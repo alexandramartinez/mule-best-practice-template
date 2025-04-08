@@ -2,6 +2,8 @@
 
 A Mule 4 application template demonstrating best practices for configuration management and HTTP API development.
 
+This code was generated in the following video: [Can AI Build MuleSoft Apps? Cursor AI + Anypoint Code Builder Test Drive](https://www.youtube.com/watch?v=9cOjP7x2DLk).
+
 ## Features
 
 - Environment-specific configuration using YAML files
